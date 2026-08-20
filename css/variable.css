@@ -1,0 +1,30 @@
+  :root {
+    --font-main: "Inter", sans-serif;
+    --font-heading: "Poppins", sans-serif;
+    --bg:  #efeeec;
+    --surface: #ffffff;
+    --surface-alt: #f6f5f2;
+    --ink: #0e0e0d;
+    --ink-soft: #68675f;
+    --ink-faint: #a5a49b;
+    --border: #e2e0da;
+    --border-soft: #ebe9e3;
+    --accent: #111110;
+    --accent2: #1a1a18;
+    --accent-ink: #ffffff;
+    --dark-surface: #171715;
+    --radius-xl: 28px;
+    --radius-lg: 22px;
+    --radius-md: 16px;
+    --radius-sm: 10px;
+    --radius-pill: 999px;
+    --success: #22c55e;
+    --success-glow: #86efac;
+    --shadow-md2: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    --transition: all 0.3s ease;
+    --shadow-card: 0 1px 2px rgba(20,20,15,0.04), 0 12px 28px -18px rgba(20,20,15,0.18);
+    --shadow-md : rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    --btn: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    --shadow-float: 0 30px 60px -25px rgba(20,20,15,0.35);
+    
+  }
